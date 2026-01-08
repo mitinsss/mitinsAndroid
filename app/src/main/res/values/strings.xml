@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weight Tracker</string>
+    <string name="add_entry_title">Add New Entry</string>
+    <string name="weight_hint">Enter Weight (kg)</string>
+    <string name="height_hint">Height (m)</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="save_btn">Save Entry</string>
+    <string name="bmi_label">BMI: </string>
+    <string name="date_label">Date: </string>
+    <string name="api_response_label">API Response:</string>
+    <string name="delete_btn">Delete Entry</string>
+</resources>
